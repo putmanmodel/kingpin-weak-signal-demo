@@ -2,6 +2,14 @@
 
 **Kingpin separates what an agent notices from what it is allowed to do.**
 
+**Live Demo:**\
+[https://putmanmodel.github.io/kingpin-weak-signal-demo/](https://putmanmodel.github.io/kingpin-weak-signal-demo/)
+
+**Video Walkthrough:**\
+[https://youtu.be/mOaUrcVkink](https://youtu.be/mOaUrcVkink)
+
+*For best readability of the interface, watch in 1080p.*
+
 Kingpin is a deterministic demonstration of runtime capability governance for AI agents: evidence can raise attention and justify capability requests without itself granting authority.
 
 This local React + TypeScript + Vite demo uses scripted scenarios, scoped temporary capability leases, runtime policy decisions, and replayable audit behavior. It runs without a model or external service.
