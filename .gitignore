@@ -1,0 +1,51 @@
+# Dependencies and generated output
+node_modules/
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+# Local environment and credentials
+.env
+.env.*
+*.local
+.npmrc
+.netrc
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Caches and logs
+.cache/
+.vite/
+.npm/
+.eslintcache
+*.log
+
+# OS and editor files
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Temporary files and local tooling state
+*.tmp
+*.temp
+*.bak
+tmp/
+temp/
+.codex/
+
+# Demo videos are hosted separately
+*.[mM][pP]4
+*.[mM][oO][vV]
+*.[mM][kK][vV]
+*.[wW][eE][bB][mM]
+*.[aA][vV][iI]
+*.[mM]4[vV]
